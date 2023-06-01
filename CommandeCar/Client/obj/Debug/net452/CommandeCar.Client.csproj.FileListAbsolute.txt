@@ -1,0 +1,9 @@
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\bin\Debug\net452\CommandeCar.Client.net.dll
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\bin\Debug\net452\CitizenFX.Core.Client.dll
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\obj\Debug\net452\CommandeCar.Client.csproj.AssemblyReference.cache
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\obj\Debug\net452\CommandeCar.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\obj\Debug\net452\CommandeCar.Client.AssemblyInfoInputs.cache
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\obj\Debug\net452\CommandeCar.Client.AssemblyInfo.cs
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\obj\Debug\net452\CommandeCar.Client.csproj.CoreCompileInputs.cache
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\obj\Debug\net452\CommandeCar.Client.csproj.CopyComplete
+C:\Users\hkane\Desktop\plugin\CommandeCar\Client\obj\Debug\net452\CommandeCar.Client.net.dll

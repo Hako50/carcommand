@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVToq9nt6KP1NAnHls6pFTJNyqphcynYFybvd1oOshSXbKJp8y++J+umvaqaY2nDYeEEe5cXTBd2igwvCefzOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hkane\\Desktop\\plugin\\CommandeCar\\Server\\CommandeCar.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hkane\\.nuget\\packages\\citizenfx.core.server\\1.0.6335\\citizenfx.core.server.1.0.6335.nupkg.sha512",
+    "C:\\Users\\hkane\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hkane\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

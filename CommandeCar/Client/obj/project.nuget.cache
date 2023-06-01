@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rjem/wLyt4Ui3TRtsBQclCV436/8ahyDOET7z4GjkH/rsPHWzBKaGxd+/C3CnIXV6MNOWFNTzIPTWl1X0dHIDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hkane\\Desktop\\plugin\\CommandeCar\\Client\\CommandeCar.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hkane\\.nuget\\packages\\citizenfx.core.client\\1.0.6370\\citizenfx.core.client.1.0.6370.nupkg.sha512",
+    "C:\\Users\\hkane\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\bin\Debug\netstandard2.0\CommandeCar.Server.deps.json
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\bin\Debug\netstandard2.0\CommandeCar.Server.net.dll
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\bin\Debug\netstandard2.0\CommandeCar.Server.net.pdb
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\obj\Debug\netstandard2.0\CommandeCar.Server.csproj.AssemblyReference.cache
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\obj\Debug\netstandard2.0\CommandeCar.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\obj\Debug\netstandard2.0\CommandeCar.Server.AssemblyInfoInputs.cache
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\obj\Debug\netstandard2.0\CommandeCar.Server.AssemblyInfo.cs
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\obj\Debug\netstandard2.0\CommandeCar.Server.csproj.CoreCompileInputs.cache
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\obj\Debug\netstandard2.0\CommandeCar.Server.net.dll
+C:\Users\hkane\Desktop\plugin\CommandeCar\Server\obj\Debug\netstandard2.0\CommandeCar.Server.net.pdb
